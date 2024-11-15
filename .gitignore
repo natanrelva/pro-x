@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+*.egg-info/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+.junit.xml
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.html
+*.json
+workflow_compiler.zip
+final_workflow_compiler.zip
